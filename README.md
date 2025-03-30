@@ -59,7 +59,7 @@ Visualisasi data menggunakan **histogram, boxplot, dan heatmap korelasi** akan d
 ### Heatmap Korelasi
 Untuk melihat hubungan antar fitur:
 
-![Heatmap Korelasi](img/heatmap.png)
+![Heatmap Korelasi](img/matriks-korelasi.png)
 
 ---
 
@@ -77,7 +77,7 @@ Langkah-langkah yang dilakukan dalam data preparation:
 ### Perbandingan Akurasi Model
 Grafik berikut menunjukkan hasil evaluasi berbagai model:
 
-![Perbandingan Model](path/to/model_comparison.png)
+![Perbandingan Model](img/perbandingan-hasil.png)
 
 ---
 
